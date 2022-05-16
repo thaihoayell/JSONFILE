@@ -1,15 +1,15 @@
 {
     "categories":[
         { 
-            "id": 1,
+            "id": "1",
             "name": "Dung cu truot tuyet"
         },
         { 
-            "id": 2,
+            "id": "2",
             "name": "Quan ao truot tuyet"
         },
         { 
-            "id": 3,
+            "id": "3",
             "name": "Kinh, mu"
         }
     ],
