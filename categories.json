@@ -1,5 +1,4 @@
-{
-    "categories":[
+[
         { 
             "id": "1",
             "name": "Dung cu truot tuyet"
@@ -12,5 +11,5 @@
             "id": "3",
             "name": "Kinh, mu"
         }
-    ],
-}
+]
+
