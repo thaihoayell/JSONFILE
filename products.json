@@ -3,23 +3,145 @@
         "id": 1,
         "images": [
             {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Andrej_%C5%A0porn_at_the_2010_Winter_Olympic_downhill.jpg"
+                "url": "https://png.pngtree.com/png-clipart/20190517/original/pngtree-blue-cartoon-ski-equipment-elements-png-image_3681307.jpg"
 
             }
         ],
         "name": "Truot Tuyet",
-        "price": "5.000"
+        "price": "5.000",
+        "categorie":1
     },
     {
         "id": 2,
         "images": [
             {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Different-ski-styles.jpg"
+                "url": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-blue-outdoor-ski-equipment-elements-png-image_3680543.jpg"
 
             }
         ],
         "name": "Anh Tuyet",
-        "price": "6.000"
+        "price": "6.000",
+        "categorie":1
+    },
+    {
+        "id": 3,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20190517/original/pngtree-personality-cartoon-outdoor-snowboard-elements-png-image_3680542.jpg"
+
+            }
+        ],
+        "name": "Truot Tuyet",
+        "price": "5.000",
+        "categorie":1
+    },
+    {
+        "id": 4,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20190517/original/pngtree-cartoon-outdoor-gear-combination-elements-png-image_3681305.jpg"
+
+            }
+        ],
+        "name": "Anh Tuyet",
+        "price": "6.000",
+        "categorie":1
+    },
+    {
+        "id": 5,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-winter-ski-snow-outdoor-png-image_3812839.jpg"
+
+            }
+        ],
+        "name": "Truot Tuyet",
+        "price": "5.000",
+        "categorie":2
+    },
+    {
+        "id": 6,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20211116/original/pngtree-abstract-winter-skiing-competition-male-athletes-png-image_6943381.png"
+
+            }
+        ],
+        "name": "Anh Tuyet",
+        "price": "6.000",
+        "categorie":2
+    },
+    {
+        "id": 7,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20210829/original/pngtree-winter-skiing-snowy-mountain-skiing-png-image_6674908.jpg"
+
+            }
+        ],
+        "name": "Truot Tuyet",
+        "price": "5.000",
+        "categorie":2
+    },
+    {
+        "id": 8,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-snowing-snowy-day-heavy-snow-light-snow-png-image_3811591.jpg"
+
+            }
+        ],
+        "name": "Anh Tuyet",
+        "price": "6.000",
+        "categorie":2
+    },
+    {
+        "id": 9,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20220125/original/pngtree-winter-ski-goggles-equipment-png-image_7220875.png"
+
+            }
+        ],
+        "name": "Truot Tuyet",
+        "price": "5.000",
+        "categorie":3
+    },
+    {
+        "id": 10,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20190618/original/pngtree-winter-winter-ski-hand-painted-png-image_3919484.jpg"
+
+            }
+        ],
+        "name": "Anh Tuyet",
+        "price": "6.000",
+        "categorie":3
+    },
+    {
+        "id": 11,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20200226/original/pngtree-st-patricks-day-elements-png-image_5324361.jpg"
+
+            }
+        ],
+        "name": "Truot Tuyet",
+        "price": "5.000",
+        "categorie":3
+    },
+    {
+        "id": 12,
+        "images": [
+            {
+                "url": "https://png.pngtree.com/png-clipart/20201208/original/pngtree-hand-drawn-black-winter-ski-equipment-png-image_5534556.jpg"
+
+            }
+        ],
+        "name": "Anh Tuyet",
+        "price": "6.000",
+        "categorie":3
     }
 ]
 
